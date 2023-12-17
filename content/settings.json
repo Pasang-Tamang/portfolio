@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "My Portfolio",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Konstantin Münster",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/Pasang-Tamang",
+      
+      "linkedin": "https://www.linkedin.com/in/pasang-tamang-691365293/",
+      "mail": "mailto:archielama957@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "PASANG" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+       
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/Pasang Dolmo Tamang.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

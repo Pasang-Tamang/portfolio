@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "title": "Ecommerce Website ",
+      "description": "Developed a secure and user-friendly system with signup and login functions backed by server-side validation. Utilized Redux Toolkit and Redux Persist for efficient state management and persistent user sessions. Enabled dynamic product displays through seamless API integration, supporting CRUD operations for product management. Implemented effective filter, search, and logout features to enhance the user experience. Ensured secure routes for protected access to web pages, prioritizing data security and a smooth overall user journey. ",
+      "tags": ["Technologies:", "HTML, CSS, JavaScript, ReactJS"],
+      "image": {
+        "src": "../../images/pr1.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/Pasang-Tamang/ecommerce-website-react"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Pasang-Tamang/ecommerce-website-react"
+        }
+       
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Ecommerce Website-02",
+      "description": "A dynamic eCommerce website featuring a full-featured shopping cart, product reviews, advanced filtering options, and secure token-based authentication. Users enjoy a seamless experience with a powerful product search, personalized profiles displaying order history, and the convenience of saving or deleting carts. The streamlined checkout process, coupled with PayPal and Esewa payment integration, ensures a smooth and secure transaction flow. This project not only prioritizes functionality but also delivers an intuitive and engaging online shopping experience.",
+      "tags": ["Technologies:", "HTML, CSS, JavaScript, ReactJS, Redux, TypeScript"],
+      "image": {
+        "src": "../../images/pr2.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/Pasang-Tamang/ecommerce-website-react-02"
+
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Pasang-Tamang/ecommerce-website-react-02"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/Pasang-Tamang"
+  }
+}

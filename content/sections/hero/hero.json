@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I am Pasang Dolmo Tamang",
+  "subtitle": {
+    "prefix": "A Frontend Developer ",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "I thrive on turning ideas into pixel-perfect, responsive websites and applications.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
